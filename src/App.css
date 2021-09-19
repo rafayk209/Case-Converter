@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.TextArea{
+  width: 70%;
+  margin: auto;
+}
